@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["3G23T9K64A.KynossStudios.Rusti"],
+        "components": [
+          { "/": "/KynossStudiosSupport/rusti/challenge/*", "comment": "Sprint 5b open-link Challenge Mode invitations" }
+        ]
+      }
+    ]
+  }
+}
